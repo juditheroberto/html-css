@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+
+
+ body {
+            font: normal 16px Arial, Verdana, serif;
+            text-align: left;
+            background-image: linear-gradient(to right, orange, greenyellow);
+        }
+
+        h1 {
+            text-align: center;
+            color: red;
+        }
+
+        h2 {
+            text-align: right;
+            color: greenyellow;
+        }
+        p {
+            text-align: justify;
+            text-indent: 30px;
+            color: blue;
+        }
+        #pricipal{
+            text-align: right;
+            font-size: 30px;
+            text-decoration: underline;
+        }
+        .esquerda{
+            
+            font-size: 25px;
+            text-align: justify;
+            text-align: right;
+            text-decoration: underline;
+            color: red;
+           
+            
+        }
+        .center{
+            
+            font-size: 25px;
+            text-align: justify;
+            text-align: right;
+            text-decoration: underline;
+            color: red;
+            
+        }
+        .direita{
+            
+            font-size: 25px;
+            text-align: justify;
+            text-align: right;
+            text-decoration: underline;
+            color: red;
+            
+        }
+        .justify{
+            
+            font-size: 25px;
+            text-align: justify;
+            text-align: right;
+            text-decoration: underline;
+            color: red;
+           
+        }
+        .paragrafo{
+            font-size: 25px;
+            text-align: justify;
+            text-align: right;
+            text-decoration: underline;
+            color: red;
+            
+        }
+        
