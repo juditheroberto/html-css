@@ -16,6 +16,10 @@ menu {
     display: none;
 }
 
+article {
+    width: 100%;
+}
+
 article::after {
-    content: 'Esse artgo é de ROBERTO CESAR';
+    content: 'Esse artigo é de ROBERTO CESAR';
 }
