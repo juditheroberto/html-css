@@ -12,11 +12,13 @@
   }
 
   main {
+    width: 90vw;
     border: 2px solid black;
   }
 
   main::after {
     content: 'Esse foi feito por ROBERTO CÉSAR, estudando HTML e CSS';
+    text-decoration: overline;
   }
 
   main h1 {
